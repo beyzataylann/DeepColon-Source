@@ -26,4 +26,3 @@ In the bottom row, **L channel histograms** corresponding to each step are displ
 - **X-axis:** Pixel intensity levels (ranging from 0 to 255).
 - **Y-axis:** Number of pixels at each intensity level (frequency).
 
-![Image Processing Results](images/Clahe_AvrFiltering.png)
