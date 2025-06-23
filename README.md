@@ -16,8 +16,8 @@ Aşağıda kolon kanserli bir dokuya ve sağlıklı bir dokuya ait örnek görse
     <td><strong>Sağlıklı Doku</strong></td>
   </tr>
   <tr>
-    <td><img src="C:\Users\Asus\Documents\GitHub\DeepColon-Source\image_colon\colonca59.jpeg" width="250"></td>
-    <td><img src="C:\Users\Asus\Documents\GitHub\DeepColon-Source\image_colon\colonn10.jpeg" width="250"></td>
+    <td><img src="image_colon/colonca59.jpeg" width="250"></td>
+    <td><img src="image_colon/colonn10.jpeg" width="250"></td>
   </tr>
 </table>
 
